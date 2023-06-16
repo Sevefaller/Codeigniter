@@ -37,5 +37,6 @@
                 </tr>
             <?php } ?>
         </table>
+        <h2 class="text-center mt-5 mb-3">Nombre de projet : <?php echo $nombre; ?></h2>
     </div>
 </div>
